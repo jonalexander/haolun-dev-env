@@ -1,17 +1,13 @@
 {
-  "name": "profile-jon-alexander",
+  "name": "haolun-dev-env",
   "version": "1.0.0",
-  "description": "profile",
+  "description": "dev-env",
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "webpack-dev-server --open" 
+    "start": "webpack-dev-server --open"
   },
-  "keywords": [
-    "profile",
-    "personal",
-    "web"
-  ],
+  "keywords": [],
   "author": "jon alexander",
   "license": "ISC",
   "devDependencies": {
